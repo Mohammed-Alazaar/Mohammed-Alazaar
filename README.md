@@ -5,7 +5,7 @@
 ### Software Engineer || Front-End Developer
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alazaar-b6408a162/) <br> 
-	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://instagram.com/MOHAMMED ALAZAAR) 
+[![Instagram]	(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MOHAMMED ALAZAAR) 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MOHAMMED ALAZAAR) 
 
 # 💻 Tech Stack:
