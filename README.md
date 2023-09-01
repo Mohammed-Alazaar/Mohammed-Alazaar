@@ -1,4 +1,5 @@
-### Hello World! 👋<br><br>### My Name is Mohammed Alazaar<br>### Connect me at mhmdalazr@icloud.com<br>### Software Engineer || Front-End Developer
+ Hello World! 👋<br><br>### My Name is Mohammed Alazaar<br Connect me at mhmdalazr@icloud.com<br> Software Engineer || Full-Stack Developer
+
 
 
 ## 🌐 Socials:
