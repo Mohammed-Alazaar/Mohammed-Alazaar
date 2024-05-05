@@ -6,9 +6,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohammed_alazaar/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alazaar-b6408a162/) 
 
 # 💻 Tech Stack:
-![Node js](https://img.shields.io/badge/node-js-blue.svg?style=for-the-badge&logo=blue&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongo-BD-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
-![Three js](https://img.shields.io/badge/Three-js-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
+![Node js](https://img.shields.io/badge/node%20js-blue.svg?style=for-the-badge&logo=blue&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Mongo%20BD-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
+![Three js](https://img.shields.io/badge/Three%20js-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Ejs](https://img.shields.io/badge/Ejs-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
 ![pug](https://img.shields.io/badge/Pug-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
