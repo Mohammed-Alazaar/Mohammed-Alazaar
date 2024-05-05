@@ -1,4 +1,4 @@
- Hello World! 👋<br><br> My Name is Mohammed Alazaar<br> Connect me at mhmdalazr@gmail.com <br> Software Engineer || Full-Stack Developer
+ Hello World! 👋<br><br> My Name is Mohammed Alazaar<br> Connect me at mhmdalazr@gmail.com <br> Software Engineer || Full-Stack web Developer
 
 
 
