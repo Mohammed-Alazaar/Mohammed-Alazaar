@@ -1,4 +1,4 @@
- Hello World! 👋<br><br> My Name is Mohammed Alazaar<br> Portfolio: https://mohammed-alazaar.github.io/portfolio/  Connect me at mhmdalazr@gmail.com <br> Software Engineer || Full-Stack web Developer
+ Hello World! 👋<br><br> My Name is Mohammed Alazaar<br> Portfolio: https://mohammed-alazaar.github.io/portfolio/ <br> Connect me at mhmdalazr@gmail.com <br> Software Engineer || Full-Stack web Developer
 
 
 
