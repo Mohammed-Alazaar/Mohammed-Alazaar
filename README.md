@@ -42,6 +42,6 @@ Currently building at **TechParadice** and **DragLab**, and open to software eng
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-alazaar/"><img src="https://img.shields.io/badge/LinkedIn-101630?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://techparadice.com"><img src="https://img.shields.io/badge/TechParadice-101630?style=flat-square&logo=googlechrome&logoColor=57D1E6" alt="Website"/></a>
+  <a href="https://mohammed-alazaar.github.io/portfolio/"><img src="https://img.shields.io/badge/TechParadice-101630?style=flat-square&logo=googlechrome&logoColor=57D1E6" alt="Website"/></a>
   <a href="mailto:mhmdalazr@gmail.com"><img src="https://img.shields.io/badge/Email-101630?style=flat-square&logo=gmail&logoColor=FF805F" alt="Email"/></a>
 </p>
