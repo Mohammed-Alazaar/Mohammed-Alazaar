@@ -1,88 +1,53 @@
-<svg viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mohammed — Software Engineer and Digital Marketer">
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mohammed Alazaar — Software engineer and performance marketer. Growth strategy meets engineering execution.">
   <defs>
-    <linearGradient id="card" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#101630"/>
-      <stop offset="1" stop-color="#090d1e"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0B0D"/>
+      <stop offset="1" stop-color="#050506"/>
     </linearGradient>
-    <linearGradient id="rule" x1="66" y1="0" x2="452" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#57d1e6"/>
-      <stop offset="1" stop-color="#ff805f"/>
+    <radialGradient id="glow" cx="0.82" cy="0.9" r="0.65">
+      <stop offset="0" stop-color="#2ECA8B" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2ECA8B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2ECA8B" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#2ECA8B" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2ECA8B" stop-opacity="0.95"/>
     </linearGradient>
-    <linearGradient id="name" x1="0" y1="110" x2="0" y2="168" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#f3f5fb"/>
-      <stop offset="1" stop-color="#c8d0e4"/>
+    <linearGradient id="sparkFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2ECA8B" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#2ECA8B" stop-opacity="0"/>
     </linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#2ECA8B" opacity="0.05"/>
     </pattern>
-    <filter id="glow" x="-120%" y="-120%" width="340%" height="340%">
-      <feGaussianBlur stdDeviation="6" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="clip"><rect x="8" y="8" width="1184" height="324" rx="18"/></clipPath>
   </defs>
 
-  <!-- card -->
-  <rect x="8" y="8" width="1184" height="324" rx="18" fill="url(#card)" stroke="#25314f" stroke-width="1"/>
-  <g clip-path="url(#clip)">
-    <rect x="8" y="8" width="1184" height="324" fill="url(#grid)"/>
-    <!-- faint corner glow -->
-    <circle cx="1120" cy="60" r="180" fill="#ff805f" fill-opacity="0.06"/>
-    <circle cx="90" cy="300" r="200" fill="#57d1e6" fill-opacity="0.05"/>
-  </g>
+  <!-- base -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
 
-  <!-- eyebrow -->
-  <text x="66" y="72" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" letter-spacing="4" fill="#7b85a3">SOFTWARE&#160;ENGINEER&#160;&#160;&#215;&#160;&#160;DIGITAL&#160;MARKETER</text>
+  <!-- build -> grow sparkline (fades in from the left, rises to the right) -->
+  <path d="M 0 252 L 150 246 L 300 252 L 430 236 L 560 242 L 690 210 L 820 220 L 950 164 L 1080 150 L 1200 92 L 1200 300 L 0 300 Z" fill="url(#sparkFill)"/>
+  <path d="M 0 252 L 150 246 L 300 252 L 430 236 L 560 242 L 690 210 L 820 220 L 950 164 L 1080 150 L 1200 92" fill="none" stroke="url(#spark)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1170" cy="103" r="9" fill="#2ECA8B" opacity="0.25"/>
+  <circle cx="1170" cy="103" r="4.5" fill="#2ECA8B"/>
+
+  <!-- terminal-cursor marker -->
+  <rect x="46" y="72" width="9" height="9" rx="1.5" fill="#2ECA8B"/>
+
+  <!-- top label -->
+  <text x="66" y="82" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" letter-spacing="2" fill="#7D8590">software engineer  &#215;  performance marketing</text>
 
   <!-- name -->
-  <text x="64" y="152" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="6" fill="url(#name)">MOHAMMED</text>
+  <text x="44" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="0.5" fill="#F5F5F7">Mohammed Alazaar</text>
 
-  <!-- duality rule + traveling operator dot -->
-  <rect x="66" y="176" width="386" height="4" rx="2" fill="url(#rule)"/>
-  <circle cx="74" r="7" cy="178" fill="#57d1e6" filter="url(#glow)">
-    <animate attributeName="cx" values="74;444;74" keyTimes="0;0.5;1" dur="6s"
-      calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#57d1e6;#ff805f;#57d1e6" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/>
-  </circle>
+  <!-- tagline -->
+  <text x="46" y="202" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#2ECA8B">Growth strategy meets engineering execution.</text>
 
-  <!-- cycling identity line -->
-  <text x="64" y="238" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24" fill="#9aa3bd">&#8594;</text>
+  <!-- sub -->
+  <text x="47" y="234" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#9BA1A6">I build the product — then I make people find it.</text>
 
-  <!-- phrase 1: engineering (cyan) -->
-  <g opacity="1">
-    <text x="94" y="238" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24" fill="#6fe0f2">React &#183; TypeScript &#183; Node.js</text>
-    <rect x="500" y="219" width="12" height="24" fill="#6fe0f2">
-      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
-    <animate attributeName="opacity" values="0;1;1;0;0;0;0" keyTimes="0;0.02;0.31;0.335;0.335;1;1" dur="9s" repeatCount="indefinite"/>
-  </g>
-
-  <!-- phrase 2: growth (coral) -->
-  <g opacity="0">
-    <text x="94" y="238" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24" fill="#ff8a6c">Google Ads &#183; Meta Ads &#183; Technical SEO</text>
-    <rect x="630" y="219" width="12" height="24" fill="#ff8a6c">
-      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
-    <animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;0.335;0.355;0.645;0.67;1;1" dur="9s" repeatCount="indefinite"/>
-  </g>
-
-  <!-- phrase 3: tagline (light) -->
-  <g opacity="0">
-    <text x="94" y="238" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24" fill="#dbe1f0">I build it, then I make people find it.</text>
-    <rect x="658" y="219" width="12" height="24" fill="#dbe1f0">
-      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
-    <animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;0.67;0.69;0.98;1;1;1" dur="9s" repeatCount="indefinite"/>
-  </g>
-
-  <!-- instrument row -->
-  <text x="66" y="300" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="1" fill="#6f7794">ANKARA &#183; UTC+03&#160;&#160;&#124;&#160;&#160;LANGS: AR &#183; TR &#183; EN &#183; DE</text>
-
-  <!-- status: open to work -->
-  <circle cx="1012" cy="296" r="12" fill="#48d597" fill-opacity="0.28">
-    <animate attributeName="r" values="6;14;6" dur="2.2s" repeatCount="indefinite"/>
-    <animate attributeName="fill-opacity" values="0.35;0;0.35" dur="2.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1012" cy="296" r="5" fill="#48d597"/>
-  <text x="1128" y="301" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="1" fill="#9fb8ac">open to work</text>
+  <!-- meta -->
+  <text x="47" y="274" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="1" fill="#5A6169">Ankara, T&#252;rkiye   &#183;   open to roles across Europe   &#183;   AR &#183; TR &#183; EN &#183; DE</text>
 </svg>
