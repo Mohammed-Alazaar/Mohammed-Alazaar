@@ -31,12 +31,7 @@ Currently building at **TechParadice** and **DragLab**, and open to software eng
 
 </div>
 
-<h3 align="center">Snapshot</h3>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alazaar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=101630&title_color=FF805F&icon_color=57D1E6&text_color=C8D0E4&hide=contribs" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alazaar&layout=compact&hide_border=true&langs_count=8&bg_color=101630&title_color=FF805F&text_color=C8D0E4" alt="Top languages"/>
-</p>
 
 <h3 align="center">Say hello</h3>
 
