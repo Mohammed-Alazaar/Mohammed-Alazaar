@@ -45,7 +45,7 @@ Because I own both sides, these numbers are mine end to end:
 
 | Growth engine — paid | Organic engine — SEO |
 |---|---|
-| **≈30** qualified B2B leads / quarter | Avg Google ranking: **page 3 → page 1** |
+| **≈300** qualified B2B leads / quarter | Avg Google ranking: **page 3 → page 1** |
 | **≈$56** cost per lead | Across **5 languages** (EN / DE / FR / ES / TR) |
 | **7.4–7.8%** search CTR | **≈24×** monthly search impressions |
 | Google & Meta, international B2B | Organic reach in **150+ countries** |
