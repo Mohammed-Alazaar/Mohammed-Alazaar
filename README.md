@@ -1,28 +1,62 @@
- Hello World! 👋<br><br> My Name is Mohammed Alazaar<br> Portfolio: https://mohammed-alazaar.github.io/portfolio/ <br> Connect me at mhmdalazr@gmail.com <br> Software Engineer || Full-Stack web Developer
+<!--
+  ┌─────────────────────────────────────────────────────────────┐
+  │  BEFORE YOU PUSH — replace 3 things:                          │
+  │   1. YOUR_USERNAME   → your GitHub username (appears 2×)       │
+  │   2. YOUR_LINKEDIN   → full LinkedIn profile URL              │
+  │   3. YOUR_EMAIL      → your email address                     │
+  │  Then commit banner.svg + README.md to a repo named exactly   │
+  │  YOUR_USERNAME/YOUR_USERNAME (a repo matching your username). │
+  └─────────────────────────────────────────────────────────────┘
+-->
 
+<p align="center">
+  <img src="./banner.svg" alt="Mohammed — Software Engineer & Digital Marketer" width="100%" />
+</p>
 
+<p align="center">
+  <b>I ship the product — then I make people find it.</b>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohammed_alazaar/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alazaar-b6408a162/) 
+I'm a software engineer with an unusual second discipline: performance marketing. I build applications end to end with **TypeScript, React, and Node.js**, and I own the growth side too — analytics, technical SEO, and paid acquisition across Google and Meta. Holding both means the things I build are measurable and findable on day one, not bolted on later.
 
-# 💻 Tech Stack:
-![Node js](https://img.shields.io/badge/node%20js-blue.svg?style=for-the-badge&logo=blue&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongo%20BD-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
-![Three js](https://img.shields.io/badge/Three%20js-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Ejs](https://img.shields.io/badge/Ejs-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
-![pug](https://img.shields.io/badge/Pug-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Java](https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-blue.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+Currently building at **TechParadice** and **DragLab**, and open to software engineering roles across Europe.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 
+**⌁ Build**  
+<img src="https://img.shields.io/badge/TypeScript-101630?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-101630?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-101630?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-101630?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+<img src="https://img.shields.io/badge/REST%20APIs-101630?style=flat-square&logo=fastapi&logoColor=57D1E6" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Git-101630?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/CI%2FCD-101630?style=flat-square&logo=githubactions&logoColor=2088FF" alt="CI/CD"/>
 
+**⌁ Grow**  
+<img src="https://img.shields.io/badge/Analytics%20(GA4)-101630?style=flat-square&logo=googleanalytics&logoColor=E37400" alt="GA4"/>
+<img src="https://img.shields.io/badge/Tag%20Manager-101630?style=flat-square&logo=googletagmanager&logoColor=246FDB" alt="Google Tag Manager"/>
+<img src="https://img.shields.io/badge/Google%20Ads-101630?style=flat-square&logo=googleads&logoColor=4285F4" alt="Google Ads"/>
+<img src="https://img.shields.io/badge/Meta%20Ads-101630?style=flat-square&logo=meta&logoColor=0866FF" alt="Meta Ads"/>
+<img src="https://img.shields.io/badge/Technical%20SEO-101630?style=flat-square&logo=googlesearchconsole&logoColor=458CF5" alt="Technical SEO"/>
 
+</div>
+
+<h3 align="center">Snapshot</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=101630&title_color=FF805F&icon_color=57D1E6&text_color=C8D0E4&hide=contribs" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&bg_color=101630&title_color=FF805F&text_color=C8D0E4" alt="Top languages"/>
+</p>
+
+<h3 align="center">Say hello</h3>
+
+<p align="center">
+  <b>مرحبا&nbsp; ·&nbsp; Merhaba&nbsp; ·&nbsp; Hello&nbsp; ·&nbsp; Hallo</b><br/>
+  <sub>I work across four languages.</sub>
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-101630?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://techparadice.com"><img src="https://img.shields.io/badge/TechParadice-101630?style=flat-square&logo=googlechrome&logoColor=57D1E6" alt="Website"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-101630?style=flat-square&logo=gmail&logoColor=FF805F" alt="Email"/></a>
+</p>
