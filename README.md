@@ -1,13 +1,3 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │  BEFORE YOU PUSH — replace 3 things:                          │
-  │   1. YOUR_USERNAME   → your GitHub username (appears 2×)       │
-  │   2. YOUR_LINKEDIN   → full LinkedIn profile URL              │
-  │   3. YOUR_EMAIL      → your email address                     │
-  │  Then commit banner.svg + README.md to a repo named exactly   │
-  │  YOUR_USERNAME/YOUR_USERNAME (a repo matching your username). │
-  └─────────────────────────────────────────────────────────────┘
--->
 
 <p align="center">
   <img src="./banner.svg" alt="Mohammed — Software Engineer & Digital Marketer" width="100%" />
@@ -44,8 +34,8 @@ Currently building at **TechParadice** and **DragLab**, and open to software eng
 <h3 align="center">Snapshot</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=101630&title_color=FF805F&icon_color=57D1E6&text_color=C8D0E4&hide=contribs" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&bg_color=101630&title_color=FF805F&text_color=C8D0E4" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alazaar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=101630&title_color=FF805F&icon_color=57D1E6&text_color=C8D0E4&hide=contribs" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alazaar&layout=compact&hide_border=true&langs_count=8&bg_color=101630&title_color=FF805F&text_color=C8D0E4" alt="Top languages"/>
 </p>
 
 <h3 align="center">Say hello</h3>
@@ -56,7 +46,7 @@ Currently building at **TechParadice** and **DragLab**, and open to software eng
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-101630?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-alazaar/"><img src="https://img.shields.io/badge/LinkedIn-101630?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
   <a href="https://techparadice.com"><img src="https://img.shields.io/badge/TechParadice-101630?style=flat-square&logo=googlechrome&logoColor=57D1E6" alt="Website"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-101630?style=flat-square&logo=gmail&logoColor=FF805F" alt="Email"/></a>
+  <a href="mailto:mhmdalazr@gmail.com"><img src="https://img.shields.io/badge/Email-101630?style=flat-square&logo=gmail&logoColor=FF805F" alt="Email"/></a>
 </p>
