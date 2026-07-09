@@ -6,7 +6,7 @@
   <b>Growth strategy meets engineering execution.</b><br/>
   <sub>I build the product — then I make people find it.</sub>
 </p>
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20work-SWE%20roles%20across%20Europe-2ECA8B?style=flat-square&labelColor=101630" alt="Open to work — Software Engineering roles across Europe"/>
   <img src="https://img.shields.io/badge/Based%20in-Ankara,%20T%C3%BCrkiye-101630?style=flat-square" alt="Based in Ankara, Türkiye"/>
